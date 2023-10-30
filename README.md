@@ -13,3 +13,5 @@
 [![](https://visitcount.itsvg.in/api?id=Danishnaseer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://app.daily.dev/danishnaseerktk"><img src="https://api.daily.dev/devcards/e7cb461d364e49b4ab702d866d088377.png?r=9nz" width="400" alt="Danish Naseer's Dev Card"/></a>
